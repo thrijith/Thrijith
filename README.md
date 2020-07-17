@@ -34,5 +34,5 @@
 
 <div align="center">
 <p align="center">Profile visit counter</p>
-<img align="center" alt="Profile visit count" src="https://visitor-badge.glitch.me/badge?page_id=thrijith.thrijith" />
+<img align="center" alt="Profile visit count" src="http://hits.dwyl.com/thrijith/thrijith.svg)](http://hits.dwyl.com/thrijith/thrijith" />
 </div>
