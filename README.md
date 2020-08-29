@@ -14,7 +14,7 @@
         <img src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.png" width=25px height=25px alt="Thrijith's Stack Overflow Profile">
     </a>&nbsp;
     <a href="mailto:thrijith13@gmail.com">
-        <img src="https://raw.githubusercontent.com/thrijith/thrijith/master/assets/gmail.png" width=25px height=25px alt="Thrijith's Email">
+        <img src="https://raw.githubusercontent.com/thrijith/thrijith/master/assets/gmail.png" width=30px height=25px alt="Thrijith's Email">
     </a>&nbsp;
     <a href="https://thrijith.com/">
         <img src="https://raw.githubusercontent.com/thrijith/thrijith/master/assets/website.png" width=25px height=25px alt="Thrijith's Personal Blog">
